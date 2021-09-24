@@ -298,7 +298,7 @@ lbl_ip.grid(row=3, column=4, sticky=W, pady=5, padx=5)
 e_ip = tkinter.Variable()
 entry_ip = Entry(win, textvariable=e_ip,width=18)
 entry_ip.grid(row=3, column=5, sticky=W)
-e_ip.set("47.92.75.224")
+e_ip.set("localhost")
 
 #第4行 port
 lbl_port = Label(win, text="DBport：")
@@ -334,7 +334,7 @@ lbl_pwd.grid(row=4, column=4, sticky=W, pady=5, padx=5)
 e_pwd = tkinter.Variable()
 entry_pwd = Entry(win, textvariable=e_pwd,width=18)
 entry_pwd.grid(row=4, column=5, sticky=W)
-e_pwd.set("Data#Gjxx2021")
+e_pwd.set("123456")
 
 
 #阶段选择

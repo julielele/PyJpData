@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="addc6feb-8199-431a-aba1-52bd5461bf34" name="Default Changelist" comment="" />
+    <list default="true" id="addc6feb-8199-431a-aba1-52bd5461bf34" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TcpData/ApplicationJs.py" beforeDir="false" afterPath="$PROJECT_DIR$/TcpData/ApplicationJs.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,9 +19,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="ProjectId" id="1wD4RQaF0C94toa4sYMobGtUeFn" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -25,13 +31,14 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15332031" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="editing.templates" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="ReadonlyStatusHandler">
     <option name="SHOW_DIALOG" value="false" />
@@ -179,6 +186,7 @@
       <workItem from="1631953797989" duration="2455000" />
       <workItem from="1632272824735" duration="488000" />
       <workItem from="1632449103604" duration="783000" />
+      <workItem from="1632454322425" duration="2587000" />
     </task>
     <servers />
   </component>
@@ -194,10 +202,10 @@
       <screen x="0" y="0" width="1920" height="1036" />
     </state>
     <state x="290" y="339" key="#com.intellij.codeInsight.template.impl.EditVariableDialog/0.0.1920.1036@0.0.1920.1036" timestamp="1630567853399" />
-    <state x="780" y="305" key="FileChooserDialogImpl" timestamp="1631002522125">
+    <state x="780" y="305" key="FileChooserDialogImpl" timestamp="1632455197701">
       <screen x="0" y="0" width="1920" height="1036" />
     </state>
-    <state x="780" y="305" key="FileChooserDialogImpl/0.0.1920.1036@0.0.1920.1036" timestamp="1631002522125" />
+    <state x="780" y="305" key="FileChooserDialogImpl/0.0.1920.1036@0.0.1920.1036" timestamp="1632455197701" />
     <state width="1400" height="245" key="GridCell.Tab.0.bottom" timestamp="1631957103871">
       <screen x="0" y="0" width="1920" height="1036" />
     </state>
@@ -230,14 +238,18 @@
       <screen x="0" y="0" width="1920" height="1036" />
     </state>
     <state width="1438" height="332" key="GridCell.Tab.1.right/0.0.1920.1036@0.0.1920.1036" timestamp="1630399032818" />
-    <state x="99" y="107" key="SettingsEditor" timestamp="1630568831885">
+    <state x="99" y="107" key="SettingsEditor" timestamp="1632462043250">
       <screen x="0" y="0" width="1920" height="1036" />
     </state>
-    <state x="99" y="107" key="SettingsEditor/0.0.1920.1036@0.0.1920.1036" timestamp="1630568831885" />
+    <state x="99" y="107" key="SettingsEditor/0.0.1920.1036@0.0.1920.1036" timestamp="1632462043250" />
     <state x="0" y="0" key="com.intellij.ide.util.TipDialog" timestamp="1632449108344">
       <screen x="0" y="0" width="1920" height="1036" />
     </state>
     <state x="0" y="0" key="com.intellij.ide.util.TipDialog/0.0.1920.1036@0.0.1920.1036" timestamp="1632449108344" />
+    <state x="841" y="453" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1632454480246">
+      <screen x="0" y="0" width="1920" height="1036" />
+    </state>
+    <state x="841" y="453" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1036@0.0.1920.1036" timestamp="1632454480246" />
     <state x="127" y="138" key="new project wizard" timestamp="1627980134882">
       <screen x="0" y="0" width="1920" height="1036" />
     </state>
@@ -254,7 +266,7 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/jp_data$Doctests_in_TimeTools.coverage" NAME="Doctests in TimeTools Coverage Results" MODIFIED="1630474837840" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tools" />
     <SUITE FILE_PATH="coverage/jp_data$BussTheoryImageSql.coverage" NAME="BussTheoryImageSql Coverage Results" MODIFIED="1630555315543" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TcpData" />
-    <SUITE FILE_PATH="coverage/jp_data$ApplicationJs.coverage" NAME="ApplicationJs Coverage Results" MODIFIED="1631956775410" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TcpData" />
+    <SUITE FILE_PATH="coverage/jp_data$ApplicationJs.coverage" NAME="ApplicationJs Coverage Results" MODIFIED="1632454449822" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TcpData" />
     <SUITE FILE_PATH="coverage/jp_data$StunumInfo.coverage" NAME="StunumInfo Coverage Results" MODIFIED="1630315145500" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TcpData" />
     <SUITE FILE_PATH="coverage/jp_data$MyPyMysql.coverage" NAME="MyPyMysql Coverage Results" MODIFIED="1630564429339" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TcpData" />
   </component>

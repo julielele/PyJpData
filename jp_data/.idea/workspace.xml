@@ -184,7 +184,7 @@
       <workItem from="1631953797989" duration="2455000" />
       <workItem from="1632272824735" duration="488000" />
       <workItem from="1632449103604" duration="783000" />
-      <workItem from="1632454322425" duration="3049000" />
+      <workItem from="1632454322425" duration="3584000" />
     </task>
     <task id="LOCAL-00001" summary="第二次提交">
       <created>1632462109940</created>
@@ -193,7 +193,14 @@
       <option name="project" value="LOCAL" />
       <updated>1632462109941</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="第二次提交">
+      <created>1632462698217</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1632462698217</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -212,14 +219,18 @@
       <screen x="0" y="0" width="1920" height="1036" />
     </state>
     <state x="290" y="339" key="#com.intellij.codeInsight.template.impl.EditVariableDialog/0.0.1920.1036@0.0.1920.1036" timestamp="1630567853399" />
-    <state x="457" y="155" key="CommitChangelistDialog2" timestamp="1632462108785">
+    <state x="424" y="44" width="1018" height="845" key="CommitChangelistDialog2" timestamp="1632462697380">
       <screen x="0" y="0" width="1920" height="1036" />
     </state>
-    <state x="457" y="155" key="CommitChangelistDialog2/0.0.1920.1036@0.0.1920.1036" timestamp="1632462108785" />
+    <state x="424" y="44" width="1018" height="845" key="CommitChangelistDialog2/0.0.1920.1036@0.0.1920.1036" timestamp="1632462697380" />
     <state x="780" y="305" key="FileChooserDialogImpl" timestamp="1632462584648">
       <screen x="0" y="0" width="1920" height="1036" />
     </state>
     <state x="780" y="305" key="FileChooserDialogImpl/0.0.1920.1036@0.0.1920.1036" timestamp="1632462584648" />
+    <state x="685" y="454" key="Github.ShareDialog" timestamp="1632462775195">
+      <screen x="0" y="0" width="1920" height="1036" />
+    </state>
+    <state x="685" y="454" key="Github.ShareDialog/0.0.1920.1036@0.0.1920.1036" timestamp="1632462775195" />
     <state width="1400" height="245" key="GridCell.Tab.0.bottom" timestamp="1632462114954">
       <screen x="0" y="0" width="1920" height="1036" />
     </state>
